@@ -1,16 +1,14 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome("C:/chromedriver.exe")
 
-driver.get("https://google.co.in")
+driver.get("https://google.co.in")  
 
-box = driver.find_element_by_xpath('//*[@id="lst-ib"]') 
+box = driver.find_element_by_xpath('//*[@id="lst-ib"]')    #selecting search text box
 
-box.send_keys("amfoss")
+keyword = raw_input( "Enter keyword" )
+box.send_keys(keyword)  # typing keyword in text box
 
 box.submit()
 
