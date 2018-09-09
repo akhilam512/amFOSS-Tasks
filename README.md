@@ -13,7 +13,7 @@ This repository contains the code I have completed for the above mentioned task 
 |      |             |                       | - Codeforces problems solved using Python 2|
 |      |             |                       |     |
 | 2.)  |  3          | Beginning with Python | Completed both the tasks using Python 2. |
-|                                              - Sorting technique used : Insertion Sort. |
+|      |             |                        |  - Sorting technique used : Insertion Sort. |
 |      |             |                       |     |
 | 3.)  |  4          | Google Scraping       |  Used Chrome Webdriver and Selenium package |
 |      |             |                       |     |
