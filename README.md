@@ -12,15 +12,15 @@ This repository contains the code I have completed for the above mentioned task 
 | 1.)  |  1          | Programming           | - [Hackerrank problems](/Hackerrank) solved using C++14 |
 |      |             |                       | - [Codeforces problems](/Codeforces) solved using Python 2|
 |      |             |                       |     |
-| 2.)  |  3          | Beginning with Python |    Completed both the tasks using Python 2. |
+| 2.)  |  3          | Beginning with Python |    Completed both ( (1) [String Problem](/Task3_String.py) and (2) [Sort](/Task3_Sort.py) ) he tasks using Python 2. |
 |      |             |                       |  - Sorting technique used : Insertion Sort. |
 |      |             |                       |     |
-| 3.)  |  4          | Google Scraping       |  Used Chrome Webdriver and Selenium package |
+| 3.)  |  4          | [Google Scraping](/Task4_GoogleScraping.py)       |  Used Chrome Webdriver and Selenium package. |
 |      |             |                       |     |
-| 4.)  |  6          | Captcha Breaking      |  Used pytesseract and PIL package |
+| 4.)  |  6          | [Captcha Breaking](/Task6_CaptchaBreaking.py)       |  Used pytesseract and PIL package |
 |      |             |                       |     |
 | 5.)  |  10         | Git and GitHub        |  Learnt and used most of the commands and understood the uprpose and working of Git and Github|
 |      |             |                       |     |
-| 6.)  | Additional - 2 | Project Euler      |   Used Python 2 |
+| 6.)  | Additional - 2 | [Project Euler](/Euler)      |   Used Python 2 |
 |      |             |                       |     |
 | 7.)  | Additional - 3 | Bandit             |   Reached level 20 |
