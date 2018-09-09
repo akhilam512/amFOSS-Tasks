@@ -7,6 +7,7 @@ This repository contains the code I have completed for the above mentioned task 
  A detailed summary :
  
 | S.no | Task Number | Task Name             | Remarks |
+| ---- | ----------- | --------------------- | ------- |
 |      |             |                       |         |
 | 1.)  |  1          | Programming           | - Hackerrank problems solved using C++14 |
 |      |             |                       | - Codeforces problems solved using Python 2|
