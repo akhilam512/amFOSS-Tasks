@@ -3,8 +3,8 @@
 
 ## Task List :  https://goo.gl/JmYne8
 
-This repository contains the code I have completed for the above mentioned task list. In total, 7 out of the 13 tasks (including additional tasks) have been completed. 
- A detailed summary :
+This repository contains the tasks I've completed till now from the above mentioned task list. In total, 7 out of the 13 tasks (including additional tasks) have been completed. 
+ ### A detailed summary :
  
 | **S.no** | **Task Number** | **Task Name**             | **Remarks** |
 | ---- | ----------- | --------------------- | ------- |
