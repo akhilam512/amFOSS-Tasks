@@ -9,11 +9,11 @@ This repository contains the code I have completed for the above mentioned task 
 | **S.no** | **Task Number** | **Task Name**             | **Remarks** |
 | ---- | ----------- | --------------------- | ------- |
 |      |             |                       |         |
-| 1.)  |  1          | Programming           | - Hackerrank problems solved using C++14 |
-|      |             |                       | - Codeforces problems solved using Python 2|
+| 1.)  |  1          | Programming           | - [Hackerrank problems](/Hackerrank) solved using C++14 |
+|      |             |                       | - [Codeforces problems](/Codeforces) solved using Python 2|
 |      |             |                       |     |
-| 2.)  |  3          | Beginning with Python | Completed both the tasks using Python 2. |
-|      |             |                        |  - Sorting technique used : Insertion Sort. |
+| 2.)  |  3          | Beginning with Python |    Completed both the tasks using Python 2. |
+|      |             |                       |  - Sorting technique used : Insertion Sort. |
 |      |             |                       |     |
 | 3.)  |  4          | Google Scraping       |  Used Chrome Webdriver and Selenium package |
 |      |             |                       |     |
