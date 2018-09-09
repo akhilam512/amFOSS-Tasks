@@ -21,7 +21,7 @@ This repository contains the tasks I've completed till now from the above mentio
 |      |             |                       |     |
 | 4.)  |  6          | [Captcha Breaking](/Task6_CaptchaBreaking.py)       |  Used pytesseract and PIL package |
 |      |             |                       |     |
-| 5.)  |  10         | Git and GitHub        |  Learnt and used most of the commands and understood the prpose and working of Git and Github|
+| 5.)  |  10         | Git and GitHub        |  Learnt and used most of the commands and understood the purpose and working of Git and Github|
 |      |             |                       |     |
 | 6.)  | Additional - 2 | [Project Euler](/Euler)      |   Used Python 2 |
 |      |             |                       |     |
