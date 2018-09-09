@@ -6,7 +6,7 @@
 This repository contains the code I have completed for the above mentioned task list. In total, 7 out of the 13 tasks (including additional tasks) have been completed. 
  A detailed summary :
  
-| S.no | Task Number | Task Name             | Remarks |
+| **S.no** | **Task Number** | **Task Name**             | **Remarks** |
 | ---- | ----------- | --------------------- | ------- |
 |      |             |                       |         |
 | 1.)  |  1          | Programming           | - Hackerrank problems solved using C++14 |
