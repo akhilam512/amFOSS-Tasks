@@ -12,7 +12,7 @@ This repository contains the tasks I've completed till now from the above mentio
 | ---- | ----------- | --------------------- | ------- |
 |      |             |                       |         |
 | 1.)  |  1          | [Programming](/Task1)           | - [Hackerrank problems](/Task1/Hackerrank) solved using C++14 |
-|      |             |                       | - [Codeforces problems](/Task2/Codeforces) solved using Python 2|
+|      |             |                       | - [Codeforces problems](/Task1/Codeforces) solved using Python 2|
 |      |             |                       |     |
 | 2.)  |  3          | [Beginning with Python](/Task3) |    Completed both ( (1) [String Problem](/Task3/Task3_String.py) and (2) [Sort](/Task3/Task3_Sort.py) ) the tasks using Python 2. |
 |      |             |                       |  - Sorting technique used : Insertion Sort. |
