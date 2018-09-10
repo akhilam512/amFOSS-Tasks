@@ -15,6 +15,7 @@ def IsDigit(i):   # works
             return 0
 
 
+
 def IsOperator(i):    # works
     
     if i == '+':
