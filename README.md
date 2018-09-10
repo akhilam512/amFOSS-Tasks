@@ -11,10 +11,10 @@ This repository contains the tasks I've completed till now from the above mentio
 | **S.no** | **Task Number** | **Task Name**             | **Remarks** |
 | ---- | ----------- | --------------------- | ------- |
 |      |             |                       |         |
-| 1.)  |  1          | Programming(/Task1)           | - [Hackerrank problems](/Task1/Hackerrank) solved using C++14 |
+| 1.)  |  1          | [Programming](/Task1)           | - [Hackerrank problems](/Task1/Hackerrank) solved using C++14 |
 |      |             |                       | - [Codeforces problems](/Task2/Codeforces) solved using Python 2|
 |      |             |                       |     |
-| 2.)  |  3          | Beginning with Python(/Task3) |    Completed both ( (1) [String Problem](/Task3/Task3_String.py) and (2) [Sort](/Task3/Task3_Sort.py) ) the tasks using Python 2. |
+| 2.)  |  3          | [Beginning with Python](/Task3) |    Completed both ( (1) [String Problem](/Task3/Task3_String.py) and (2) [Sort](/Task3/Task3_Sort.py) ) the tasks using Python 2. |
 |      |             |                       |  - Sorting technique used : Insertion Sort. |
 |      |             |                       |     |
 | 3.)  |  4          | [Google Scraping](/Task4_GoogleScraping.py)       |  Used Chrome Webdriver and Selenium package. |
