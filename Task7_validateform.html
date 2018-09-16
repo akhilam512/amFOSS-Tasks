@@ -1,0 +1,47 @@
+<!-- only front end developed --> 
+
+<!DOCTYPE html>
+
+<html>
+	<title> Form Validation </title>
+    <body>
+        <h1 style="color:White; background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/220px-Shakespeare.jpg')" > Validate ye form <br><br><br><br><br><br><br><br></h1>
+
+        <fieldset>
+        	<legend> Personal Info: </legend>
+        	<form action=>
+        		<strong>First Name :</strong><br>
+        		<input type="text" name="fname"> <br>
+        		
+        		<strong>Last Name :</strong><br>
+        		<input type="text" name="lname"><br>
+        		
+        		<strong>Age :</strong><br>
+        		<input type="text" name="age"><br><br>
+        		
+        		<strong>Gender:</strong><br>
+        		<input type="radio" name="gender" value="male" checked> Male <br>
+        		<input type="radio" name="gender" value="female"> Female <br>
+        		<input type="radio" name="gender" value="other">
+        		Other <br><br>
+        		
+        		<strong>Programming languages known:</strong><br>
+        		<select name="lang" size="4" multiple>
+        			<option value="C">C++ or C</option><br>
+        			<option value="Py"> Python</option><br>
+        			<option value="Java">Java</option><br>
+        			<optiob value="None">None</optiob><br>
+        		</select>
+        		<p> <i>(Press CTRL to select multiple options) </i> </p><br>
+
+        		<strong>E-mail:</strong><br><input type="email" name="email"> <br><br>
+
+        		<input type="button" onclick="alert('Thou form be submitted')" value="submit"><br>
+
+        		<img src="http://sheltonherald.hanewsmedia.com/wp-content/uploads/sites/33/2013/07/Shakespeare-Smiles-Wink-Headshot.png">
+
+        	</form>
+        </fieldset>
+    </body>
+</html>
+
