@@ -1,5 +1,5 @@
 # amFOSS - TASKS - Akhil K Gangadharan  ( CSE18362 )
- [My Hackerrank Profile](https://www.hackerrank.com/akhilam512?hr_r=1)
+ [My Hackerrank Profile](https://www.hackerrank.com/akhilam512?hr_r=1) and [My blog](https://thoughtsofaspeck.home.blog/)
 
 ## Task List :  https://goo.gl/JmYne8
 
