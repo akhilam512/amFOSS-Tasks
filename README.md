@@ -26,4 +26,4 @@ This repository contains the tasks I've completed till now from the above mentio
 | 6.)  | Additional - 2 | [Project Euler](/Additional_Task2)      |   Used Python 2 |
 |      |             |                       |     |
 | 7.)  | Additional - 3 | Bandit             |   Reached level 20 |
-| 8.)  |   7          | [Form Submission](/https://github.com/akhilam512/FormWebApp/) | Made the web app using Nodejs, Express and MySQL |
+| 8.)  |   7          | [Form Submission](https://github.com/akhilam512/FormWebApp/) | Made the web app using Nodejs, Express and MySQL |
