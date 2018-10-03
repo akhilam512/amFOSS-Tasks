@@ -36,9 +36,36 @@ for i in res:
         break
 
     
+"""Google scrapping can be done in shorter way using bs4. The code is :
 
 
-driver.close()
+import requests ; from bs4 import BeautifulSoup
+import sys
+
+search_item=input("enter search parameter:")
+base="http://www.google.co.in"
+url="http://www.google.co.in/search?q="+ search_item
+
+response=requests.get(url)
+soup=BeautifulSoup(response.text,"lxml")
+c=0;
+for item in soup.select(".r a"):
+	print(item.text)
+	c=c+1
+	if c>10 :
+		break;
+if c < 10 :
+	for next_page in soup.select(".fl"):
+		res=requests.get(base + next_page.get('href'))
+		soup= BeautifulSoup(res.text,"lxml")
+		while c <10 :
+			for item in soup.select(".r a"):
+				print(item.text)
+				c+=1
+                
+
+
+driver.close()"""
 
 
 
